@@ -1,0 +1,1 @@
+Each assignment is done in python on a jupyter notebook and then exported as a pdf. The labs are mainly to learn the effects of convolution and fourier transforms on audio signals or signals in general.
